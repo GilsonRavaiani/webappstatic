@@ -3,18 +3,19 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "echo 'Nenhum processo de build necessário'"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/GilsonRavaiani/webappstatic.git"
+    "url": "https://github.com/GilsonRavaiani/webappstatic.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Gilson Ravaiani",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/GilsonRavaiani/webappstatic/issues"
   },
   "homepage": "https://github.com/GilsonRavaiani/webappstatic#readme",
-  "description": ""
+  "description": "Aplicação web estática hospedada no Azure"
 }
